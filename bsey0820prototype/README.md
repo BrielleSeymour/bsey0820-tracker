@@ -68,3 +68,38 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# bsey0820-tracker
+DECO2017 Web App Prototype
+
+# Web App Name
+
+## Overview
+Web App Name is a single-page-application that allows users to track their reading activity and compile a list of books they would like to read. Type of storage (local storage?) that is used.
+
+### Version Control
+Github was used to track changes and manage development. Github link here: 
+
+## Features
+- **Log books that have been read**
+- **Filtering & sorting of data**
+- **Leave a rating & review**
+
+## Iterations
+ 
+## Setup
+
+## Usage
+View the website using the Github Pages link: 
+
+## Limitations
+
+## Acknowledgements 
+
+### Sources
+**Inter Font** https://fonts.google.com/selection/embed
+**Martian Mono Font** https://fonts.google.com/selection/embed
+
+
+### AI Usage Acknowledgments
