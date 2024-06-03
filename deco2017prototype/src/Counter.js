@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+/*import React, { useState } from "react";
 
 const Counter = () => {
   const [count, setcount] = useState(0);
@@ -28,4 +28,4 @@ const Counter = () => {
   );
 };
 
-export default Counter;
+export default Counter; */
