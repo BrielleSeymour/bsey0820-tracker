@@ -9,7 +9,7 @@ function NavBar() {
         <Stack direction="horizontal" gap={5}>
             <div className="logo">BookStack</div>
             <Form.Control className="ms-auto" placeholder="Search for a book" />
-            <Button className="btn btn-primary btn-sm px-5">Add a new book</Button>
+            <Button className="btn-primary">Add a new book</Button>
       </Stack>
 
     </div>
