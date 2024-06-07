@@ -1,15 +1,15 @@
 import "./App.css";
-import Button from 'react-bootstrap/Button';
 import Stack from 'react-bootstrap/Stack';
 import Form from 'react-bootstrap/Form';
+import Example from "./form";
 
 function NavBar() {
     return (
     <div className="navigationbar">
         <Stack direction="horizontal" gap={5}>
             <div className="logo">BookStack</div>
-            <Form.Control className="ms-auto" placeholder="Search for a book" />
-            <Button className="btn-primary">Add a new book</Button>
+            <Form.Control className="me-auto" placeholder="Search your library" />
+            <Example className="me-auto"/>
       </Stack>
 
     </div>

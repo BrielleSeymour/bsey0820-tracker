@@ -34,3 +34,7 @@
 .btn-primary {
   size: 10;
 }
+
+.genre-tag {
+  border-radius: 20px;
+}
